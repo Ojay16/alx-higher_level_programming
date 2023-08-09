@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#12-fizzbuzz.py
+# 12-fizzbuzz.py
 
 """
 prints the num from 1 to 100 separated by a space.
@@ -10,6 +10,7 @@ prints the num from 1 to 100 separated by a space.
 
     For multiples of three and five, print FizzBuzz.
     """
+
     for number in range(1, 101):
         if number % 3 == 0 and number % 5 == 0:
             print("FizzBuzz ", end="")
@@ -18,4 +19,4 @@ prints the num from 1 to 100 separated by a space.
         elif number % 5 == 0:
             print("Buzz ", end="")
         else:
-            print("{} ".format(number), end
+            print("{} ".format(number), end="")
