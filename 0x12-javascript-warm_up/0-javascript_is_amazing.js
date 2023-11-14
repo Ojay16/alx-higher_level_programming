@@ -2,5 +2,5 @@
 
 // Script prints "JavaScript is amazing" to console.
 
-const myVar =  'JavaScript is amazing';
+const myVar = 'JavaScript is amazing';
 console.log(myVar);
