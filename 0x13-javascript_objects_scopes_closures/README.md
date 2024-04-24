@@ -4,10 +4,6 @@
 
 This is my second JavaScript project, where I explored the interesting concepts of scope, closures, and `this`. I also practiced working with objects and ES6-style classes.
 
-## Tests :heavy_check_mark:
-
-* [tests](./tests): This folder contains test files provided by ALX.
-
 ## Tasks :page_with_curl:
 
 * **0. Rectangle #0**
