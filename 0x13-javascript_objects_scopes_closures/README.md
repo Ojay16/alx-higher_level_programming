@@ -2,7 +2,7 @@
 
 # JavaScript - Objects, Scopes and Closures
 
-This is my second JavaScript project at Holberton, where I explored the interesting concepts of scope, closures, and `this`. I also practiced working with objects and ES6-style classes.
+This is my second JavaScript project, where I explored the interesting concepts of scope, closures, and `this`. I also practiced working with objects and ES6-style classes.
 
 ## Tests :heavy_check_mark:
 
