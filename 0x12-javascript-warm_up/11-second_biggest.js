@@ -1,6 +1,6 @@
 #!/usr/bin/node
 
-// This scropt searches the second biggest integer in the
+// This JS script searches the second biggest integer in the
 // list of arguments.
 
 if (process.argv.length <= 3) {

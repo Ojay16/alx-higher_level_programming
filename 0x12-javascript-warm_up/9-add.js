@@ -1,6 +1,6 @@
 #!/usr/bin/node
 
-// Script prints the sum of 2 ints.
+// This JS script prints the sum of 2 ints.
 
 function add (a, b) {
   return a + b;

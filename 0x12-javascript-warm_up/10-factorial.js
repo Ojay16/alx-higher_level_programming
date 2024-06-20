@@ -1,6 +1,6 @@
 #!/usr/bin/node
 
-// This script prints and computes a factorial.
+// This JS script prints and computes a factorial.
 
 function factorial (n) {
   return n === 0 || isNaN(n) ? 1 : n * factorial(n - 1);
