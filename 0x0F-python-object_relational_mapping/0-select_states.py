@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This script retrieves and lists all states 
+This script retrieves and lists all states
 from the hbtn_0e_0_usa database.
 """
 
@@ -9,7 +9,7 @@ from sys import argv
 
 if __name__ == '__main__':
     """
-    Access to database and get the states
+    Access to database and gets all `the states
     from the database.
     """
     db = MySQLdb.connect(host="localhost", user=argv[1], port=3306,
